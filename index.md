@@ -1,4 +1,4 @@
-# Welcome to Ziyue Zhao's Homepage!
+
 
 I am currently a PhD student at the [Institute for Communications Technology](https://www.ifn.ing.tu-bs.de/en/ifn/), TU Braunschweig, Germany. My research fields include transcoded speech enhancement, deep learning methods, and robust speech and audio decoding. 
 
@@ -9,7 +9,14 @@ I will briefly introduce my publications and research work here.
 
   **Ziyue Zhao**, Sai Han, Tim Fingscheidt
 
-  _ITG Conference on Speech Communication, 2016_
+  _ITG Conference on Speech Communication, Oct. 2016_
 
   Abstract: Low bit rate vector quantization (VQ) is omnipresent in today’s media transmission. With IP-based transmission the situation is that source-coded bits are typically either lost/deleted as a whole frame/packet, or they are received correctly. Assuming correctly received VQ symbols we show how to exploit vector-to-vector (i.e., residual temporal) redundancy at the decoder side for an improved reconstruction. It turns out that a feedforward neural network is an effective means for predicting better reconstruction vectors at the receiver in a system-compatible fashion, gaining up to 1 dB SNR depending on signal correlation and bit rate.
 
+- Nonlinear Prediction of Speech by Echo State Networks
+
+  **Ziyue Zhao**, Huijun Liu, Tim Fingscheidt
+
+  _European Signal Processing Conference (EUSIPCO), Sept. 2018_
+ 
+  Abstract: Speech prediction plays a key role in many speech signal processing and speech communication methods. While linear prediction of speech is well-studied, nonlinear speech prediction increasingly receives interest especially with the vast amount of new neural network topologies proposed recently. In this paper, nonlinear speech prediction is conducted by a special kind of recurrent neural network not requiring any training beforehand, the echo state network, which adaptively updates its output layer weights. Simulations show its superior performance compared to other well-known prediction approaches in terms of the prediction gain, exceeding all baselines in all conditions by up to 8 dB.
