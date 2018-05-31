@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# Welcome to Ziyue Zhao's Homepage!
 
-You can use the [editor on GitHub](https://github.com/ZiyueZhao/ZiyueZhao.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am currently a PhD student at the [Institute for Communications Technology](https://www.ifn.ing.tu-bs.de/en/ifn/), TU Braunschweig, Germany. My research fields include transcoded speech enhancement, deep learning methods, and robust speech and audio decoding. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I will briefly introduce my publications and research work here. 
 
-### Markdown
+##  Publications
+- Improving Vector Quantization-Based Decoders for Correlated Processes in Error-Free Transmission [[paper]](https://www.researchgate.net/profile/Ziyue_Zhao/publication/309321915_Improving_Vector_Quantization-Based_Decoders_for_Correlated_Processes_in_Error-Free_Transmission/links/5809eec908ae3a04d624f3aa.pdf) [[poster]](https://www.researchgate.net/profile/Ziyue_Zhao/publication/309321915_Improving_Vector_Quantization-Based_Decoders_for_Correlated_Processes_in_Error-Free_Transmission/links/5809eec908ae3a04d624f3aa.pdf)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  **Ziyue Zhao**, Sai Han, Tim Fingscheidt
 
-```markdown
-Syntax highlighted code block
+  _ITG Conference on Speech Communication, 2016_
 
-# Header 1
-## Header 2
-### Header 3
+  Abstract: Low bit rate vector quantization (VQ) is omnipresent in today’s media transmission. With IP-based transmission the situation is that source-coded bits are typically either lost/deleted as a whole frame/packet, or they are received correctly. Assuming correctly received VQ symbols we show how to exploit vector-to-vector (i.e., residual temporal) redundancy at the decoder side for an improved reconstruction. It turns out that a feedforward neural network is an effective means for predicting better reconstruction vectors at the receiver in a system-compatible fashion, gaining up to 1 dB SNR depending on signal correlation and bit rate.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ZiyueZhao/ZiyueZhao.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
