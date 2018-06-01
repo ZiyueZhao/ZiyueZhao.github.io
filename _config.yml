@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 title: Ziyue Zhao
-logo: image/Portrait.jpg
+logo: <img src="/image/Portrait.jpg" width="200">
 description: PhD Student 
