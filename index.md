@@ -5,6 +5,18 @@ I am currently a PhD student at the [Institute for Communications Technology](ht
 I will briefly introduce my publications and the related research work here. 
 
 ##  Publications
+- **Enhancement of G.711-Coded Speech Providing Quality Higher Than Uncoded**
+
+  **Ziyue Zhao**, Huijun Liu, Tim Fingscheidt
+  
+  _accepted by ITG Conference on Speech Communication, Oct. 2018_
+  
+- **A CNN Postprocessor to Enhance Coded Speech**
+
+  **Ziyue Zhao**, Samy Elshamy, Huijun Liu, Tim Fingscheidt
+  
+  _accepted by International Workshop on Acoustic Signal Enhancement (IWAENC), Sept. 2018_
+  
 - **Convolutional Neural Networks to Enhance Coded Speech**[[paper]](https://arxiv.org/pdf/1806.09411.pdf)
 
   **Ziyue Zhao**, Huijun Liu, Tim Fingscheidt
@@ -17,7 +29,7 @@ I will briefly introduce my publications and the related research work here.
 
   **Ziyue Zhao**, Huijun Liu, Tim Fingscheidt
 
-  _European Signal Processing Conference (EUSIPCO), Sept. 2018_
+  _accepted by European Signal Processing Conference (EUSIPCO), Sept. 2018_
  
   Abstract: Speech prediction plays a key role in many speech signal processing and speech communication methods. While linear prediction of speech is well-studied, nonlinear speech prediction increasingly receives interest especially with the vast amount of new neural network topologies proposed recently. In this paper, nonlinear speech prediction is conducted by a special kind of recurrent neural network not requiring any training beforehand, the echo state network, which adaptively updates its output layer weights. Simulations show its superior performance compared to other well-known prediction approaches in terms of the prediction gain, exceeding all baselines in all conditions by up to 8 dB.
   
