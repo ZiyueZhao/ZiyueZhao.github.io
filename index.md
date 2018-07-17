@@ -17,6 +17,8 @@ I will briefly introduce my publications and the related research work here.
   
   _accepted by International Workshop on Acoustic Signal Enhancement (IWAENC), Sept. 2018_
   
+  Abstract: Postprocessors can be advantageously used to enhance transcoded speech after the decoder on the receiver side. In this paper we present a CNN-based postprocessor applying cepstral domain features to enhance the transcoded speech for various narrowband and wideband codecs without any modification of these codecs. Simulations show that the proposed postprocessor is able to improve the coded speech quality (PESQ or WB-PESQ) by 0.25 MOS-LQO points for G.711, 0.26 points for G.726, 0.81 points for G.722, and 0.2 points for AMR-WB. Moreover, a superior performance is observed for the proposed postprocessor compared to an ITU-T-standardized postfilter for G.711. We also show that AMR-WB at lower bitrates together with our proposed postprocessor is able to exceed the speech quality of AMR-WB at higher bitrates without postprocessing (up to 3 modes higher).
+  
 - **Convolutional Neural Networks to Enhance Coded Speech**[[paper]](https://arxiv.org/pdf/1806.09411.pdf)
 
   **Ziyue Zhao**, Huijun Liu, Tim Fingscheidt
