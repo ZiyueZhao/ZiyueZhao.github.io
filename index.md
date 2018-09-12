@@ -2,7 +2,7 @@
 
 I am currently a PhD student at the [Institute for Communications Technology](https://www.ifn.ing.tu-bs.de/en/ifn/), Technische Universität Braunschweig, Germany. My research fields include **transcoded** (i.e., after encoding and decoding) **speech enhancement**, **deep learning methods**, and **robust speech and audio decoding**. [Here](https://www.ifn.ing.tu-bs.de/en/ifn/sp/zhao/) is my homepage in the university. 
 
-I will briefly introduce my publications and the related research work here. 
+I will briefly introduce my publications here. 
 
 ##  Publications
 - **Enhancement of G.711-Coded Speech Providing Quality Higher Than Uncoded**
@@ -31,7 +31,7 @@ I will briefly introduce my publications and the related research work here.
 
   **Ziyue Zhao**, Huijun Liu, Tim Fingscheidt
 
-  _accepted by European Signal Processing Conference (EUSIPCO), Sept. 2018_
+  _European Signal Processing Conference (EUSIPCO), Sept. 2018_ **Best Student Paper Award**
  
   Abstract: Speech prediction plays a key role in many speech signal processing and speech communication methods. While linear prediction of speech is well-studied, nonlinear speech prediction increasingly receives interest especially with the vast amount of new neural network topologies proposed recently. In this paper, nonlinear speech prediction is conducted by a special kind of recurrent neural network not requiring any training beforehand, the echo state network, which adaptively updates its output layer weights. Simulations show its superior performance compared to other well-known prediction approaches in terms of the prediction gain, exceeding all baselines in all conditions by up to 8 dB.
   
