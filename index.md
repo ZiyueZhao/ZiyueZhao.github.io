@@ -9,13 +9,13 @@ I will briefly introduce my publications here.
 
   **Ziyue Zhao**, Huijun Liu, Tim Fingscheidt
   
-  _accepted by ITG Conference on Speech Communication, Oct. 2018_
+  _accepted by ITG Conference on Speech Communication, Oldenburg, Germany, Oct. 2018_
   
 - **A CNN Postprocessor to Enhance Coded Speech** [[poster]](https://www.researchgate.net/publication/327844569_A_CNN_Postprocessor_to_Enhance_Coded_Speech)
 
   **Ziyue Zhao**, Samy Elshamy, Huijun Liu, Tim Fingscheidt
   
-  _International Workshop on Acoustic Signal Enhancement (IWAENC), Sept. 2018_
+  _International Workshop on Acoustic Signal Enhancement (IWAENC), Tokyo, Japan, Sept. 2018_
   
   Abstract: Postprocessors can be advantageously used to enhance transcoded speech after the decoder on the receiver side. In this paper we present a CNN-based postprocessor applying cepstral domain features to enhance the transcoded speech for various narrowband and wideband codecs without any modification of these codecs. Simulations show that the proposed postprocessor is able to improve the coded speech quality (PESQ or WB-PESQ) by 0.25 MOS-LQO points for G.711, 0.26 points for G.726, 0.81 points for G.722, and 0.2 points for AMR-WB. Moreover, a superior performance is observed for the proposed postprocessor compared to an ITU-T-standardized postfilter for G.711. We also show that AMR-WB at lower bitrates together with our proposed postprocessor is able to exceed the speech quality of AMR-WB at higher bitrates without postprocessing (up to 3 modes higher).
 
@@ -23,7 +23,7 @@ I will briefly introduce my publications here.
 
   **Ziyue Zhao**, Huijun Liu, Tim Fingscheidt
 
-  **Best Student Paper Award** in _European Signal Processing Conference (EUSIPCO), Sept. 2018_
+  **Best Student Paper Award** in _European Signal Processing Conference (EUSIPCO), Rome, Italy, Sept. 2018_
  
   Abstract: Speech prediction plays a key role in many speech signal processing and speech communication methods. While linear prediction of speech is well-studied, nonlinear speech prediction increasingly receives interest especially with the vast amount of new neural network topologies proposed recently. In this paper, nonlinear speech prediction is conducted by a special kind of recurrent neural network not requiring any training beforehand, the echo state network, which adaptively updates its output layer weights. Simulations show its superior performance compared to other well-known prediction approaches in terms of the prediction gain, exceeding all baselines in all conditions by up to 8 dB.
   
@@ -39,7 +39,7 @@ I will briefly introduce my publications here.
 
   **Ziyue Zhao**, Sai Han, Tim Fingscheidt
 
-  _ITG Conference on Speech Communication, Oct. 2016_
+  _ITG Conference on Speech Communication, Paderborn, Germany, Oct. 2016_
 
   Abstract: Low bit rate vector quantization (VQ) is omnipresent in today’s media transmission. With IP-based transmission the situation is that source-coded bits are typically either lost/deleted as a whole frame/packet, or they are received correctly. Assuming correctly received VQ symbols we show how to exploit vector-to-vector (i.e., residual temporal) redundancy at the decoder side for an improved reconstruction. It turns out that a feedforward neural network is an effective means for predicting better reconstruction vectors at the receiver in a system-compatible fashion, gaining up to 1 dB SNR depending on signal correlation and bit rate.
 
