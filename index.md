@@ -11,7 +11,7 @@ I will briefly introduce my publications here.
   
   _accepted by ITG Conference on Speech Communication, Oldenburg, Germany, Oct. 2018_
   
-- **A CNN Postprocessor to Enhance Coded Speech** [[poster]](https://www.researchgate.net/publication/327844569_A_CNN_Postprocessor_to_Enhance_Coded_Speech)
+- **A CNN Postprocessor to Enhance Coded Speech** [[paper]](https://www.researchgate.net/publication/328079810_A_CNN_Postprocessor_to_Enhance_Coded_Speech)[[poster]](https://www.researchgate.net/publication/327844569_A_CNN_Postprocessor_to_Enhance_Coded_Speech)
 
   **Ziyue Zhao**, Samy Elshamy, Huijun Liu, Tim Fingscheidt
   
@@ -19,7 +19,7 @@ I will briefly introduce my publications here.
   
   Abstract: Postprocessors can be advantageously used to enhance transcoded speech after the decoder on the receiver side. In this paper we present a CNN-based postprocessor applying cepstral domain features to enhance the transcoded speech for various narrowband and wideband codecs without any modification of these codecs. Simulations show that the proposed postprocessor is able to improve the coded speech quality (PESQ or WB-PESQ) by 0.25 MOS-LQO points for G.711, 0.26 points for G.726, 0.81 points for G.722, and 0.2 points for AMR-WB. Moreover, a superior performance is observed for the proposed postprocessor compared to an ITU-T-standardized postfilter for G.711. We also show that AMR-WB at lower bitrates together with our proposed postprocessor is able to exceed the speech quality of AMR-WB at higher bitrates without postprocessing (up to 3 modes higher).
 
-- **Nonlinear Prediction of Speech by Echo State Networks** [[poster]](https://www.researchgate.net/publication/327605657_Nonlinear_Prediction_of_Speech_by_Echo_State_Networks)
+- **Nonlinear Prediction of Speech by Echo State Networks** [[paper]](https://www.researchgate.net/publication/327582550_Nonlinear_Prediction_of_Speech_by_Echo_State_Networks_EURASIP_Best_Student_Paper_Award)[[poster]](https://www.researchgate.net/publication/327605657_Nonlinear_Prediction_of_Speech_by_Echo_State_Networks)
 
   **Ziyue Zhao**, Huijun Liu, Tim Fingscheidt
 
