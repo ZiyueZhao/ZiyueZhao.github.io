@@ -5,11 +5,13 @@ I am currently a PhD student at the [Institute for Communications Technology](ht
 I will briefly introduce my publications here. 
 
 ##  Publications
-- **Enhancement of G.711-Coded Speech Providing Quality Higher Than Uncoded**
+- **Enhancement of G.711-Coded Speech Providing Quality Higher Than Uncoded** [[paper]](https://www.researchgate.net/publication/328416287_Enhancement_of_G711-Coded_Speech_Providing_Quality_Higher_Than_Uncoded)[[poster]](https://www.researchgate.net/publication/328416351_Enhancement_of_G711-Coded_Speech_Providing_Quality_Higher_Than_Uncoded)
 
   **Ziyue Zhao**, Huijun Liu, Tim Fingscheidt
   
-  _accepted by ITG Conference on Speech Communication, Oldenburg, Germany, Oct. 2018_
+  _ITG Conference on Speech Communication, Oldenburg, Germany, Oct. 2018_
+  
+  Abstract: The speech quality of the worldwide mostly used speech codec ITU-T G.711 can be advantageously enhanced on the decoder side without modifying the codec itself. In this paper we present an enhancement approach for G.711-coded speech based on a convolutional neural network (CNN) employing cepstral domain features in a system-compatible fashion. In a subjective CCR listening test, the proposed enhancement approach exceeds the speech quality of an ITU-T-standardized postfilter by 0.36 CMOS points, and improves G.711-coded speech by a clear 1.77 CMOS points. The proposed CNN-based enhancement approach even achieves a significant 0.18 CMOS points improvement when compared to uncoded speech, a surprising result which, to the best of our knowledge, has never been seen before. 
   
 - **A CNN Postprocessor to Enhance Coded Speech** [[paper]](https://www.researchgate.net/publication/328079810_A_CNN_Postprocessor_to_Enhance_Coded_Speech)[[poster]](https://www.researchgate.net/publication/327844569_A_CNN_Postprocessor_to_Enhance_Coded_Speech)
 
