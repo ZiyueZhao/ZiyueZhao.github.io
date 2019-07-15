@@ -15,7 +15,7 @@ I will briefly introduce my publications here.
 speech coding, e.g., in code-excited linear prediction (CELP). The experimental results show that the proposed simple loss function
 improves the speech enhancement performance compared to a reference DNN with MSE loss in terms of perceptual quality and noise attenuation. The proposed loss function can be advantageously applied to an existing DNN-based speech enhancement system, without modification of the DNN topology for speech enhancement.
 
-- **Learning to Dequantize Speech Signals by Primal-dual Networks: an Approach for Acoustic Sensor Networks**
+- **Learning to Dequantize Speech Signals by Primal-dual Networks: An Approach for Acoustic Sensor Networks**
 
   Christoph Brauer, **Ziyue Zhao**, Dirk Lorenz, Tim Fingscheidt
   
