@@ -1,15 +1,33 @@
 
 
-I am currently a PhD student at the [Institute for Communications Technology](https://www.ifn.ing.tu-bs.de/en/ifn/), Technische Universität Braunschweig, Germany. My research fields include **transcoded** (i.e., after encoding and decoding) **speech enhancement**, **deep learning methods**, and **robust speech and audio decoding**. [Here](https://www.ifn.ing.tu-bs.de/en/ifn/sp/zhao/) is my homepage in the university. 
+I am currently a PhD student at the [Institute for Communications Technology](https://www.ifn.ing.tu-bs.de/en/ifn/), Technische Universität Braunschweig, Germany. My research fields include **speech enhancement**, **deep learning methods**, and **improved speech and audio decoding**. [Here](https://www.ifn.ing.tu-bs.de/en/ifn/sp/zhao/) is my homepage in the university. 
 
 I will briefly introduce my publications here. 
 
 ##  Publications
+- **A Perceptual Weighting Filter Loss for DNN Training in Speech Enhancement** [[paper]](https://arxiv.org/pdf/1905.09754.pdf)
+
+  **Ziyue Zhao**, Samy  Elshamy, Tim Fingsheidt
+  
+  _Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA), New Paltz, NY, US, Oct. 2019_
+  
+  Abstract: Single-channel speech enhancement with deep neural networks (DNNs) has shown promising performance and is thus intensively being studied. In this paper, instead of applying the mean squared error (MSE) as the loss function during DNN training for speech enhancement, we design a perceptual weighting filter loss motivated by the weighting filter as it is employed in analysis-by-synthesis
+speech coding, e.g., in code-excited linear prediction (CELP). The experimental results show that the proposed simple loss function
+improves the speech enhancement performance compared to a reference DNN with MSE loss in terms of perceptual quality and noise attenuation. The proposed loss function can be advantageously applied to an existing DNN-based speech enhancement system, without modification of the DNN topology for speech enhancement.
+
+- **Learning to Dequantize Speech Signals by Primal-dual Networks: an Approach for Acoustic Sensor Networks**
+
+  Christoph Brauer, **Ziyue Zhao**, Dirk Lorenz, Tim Fingscheidt
+  
+  _International Conference on Acoustics, Speech and Signal Processing (ICASSP), Brighton, UK, May 2019_
+  
+  Abstract: We introduce a method to improve the quality of simple scalar quantization in the context of acoustic sensor networks by combining ideas from sparse reconstruction, artificial neural networks and weighting filters. We start from the observation that optimization methods based on sparse reconstruction resemble the structure of a neural network. Hence, building upon a successful enhancement method, we unroll the algorithms and use this to build a neural network which we train to obtain enhanced decoding. In addition, the weighting filter from code-excited linear predictive (CELP) speech coding is integrated into the loss function of the neural network, achieving perceptually improved reconstructed speech. Our experiments show that our proposed trained methods allow for better speech reconstruction than the reference optimization methods.
+
 - **Convolutional Neural Networks to Enhance Coded Speech** [[paper]](https://ieeexplore.ieee.org/document/8579579)
 
   **Ziyue Zhao**, Huijun Liu, Tim Fingscheidt
   
-  _IEEE/ACM Transactions on Audio, Speech, and Language Processing, Dec. 2018_
+  _IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol. 27, no.4, Apr. 2019_
  
   Abstract: Enhancing coded speech suffering from far-end acoustic background noise, quantization noise, and potentially transmission errors, is a challenging task. In this work we propose two postprocessing approaches applying convolutional neural networks (CNNs) either in the time domain or the cepstral domain to enhance the coded speech without any modification of the codecs. The time domain approach follows an end-to-end fashion, while the cepstral domain approach uses analysis-synthesis with cepstral domain features. The proposed postprocessors in both domains are evaluated for various narrowband and wideband speech codecs in a wide range of conditions. The proposed postprocessor improves speech quality (PESQ) by up to 0.25 MOS-LQO points for G.711, 0.30 points for G.726, 0.82 points for G.722, and 0.26 points for adaptive multirate wideband codec (AMR-WB). In a subjective CCR listening test, the proposed postprocessor on G.711-coded speech exceeds the speech quality of an ITU-T-standardized postfilter by 0.36 CMOS points, and obtains a clear preference of 1.77 CMOS points compared to G.711, even en par with uncoded speech. The source code for the cepstral domain approach to enhance G.711-coded speech is made available in the [Github project](https://github.com/ifnspaml/Enhancement-Coded-Speech).
 
